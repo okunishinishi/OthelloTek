@@ -1,0 +1,4 @@
+OthelloTek
+==========
+
+javascript othello game
