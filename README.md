@@ -1,7 +1,7 @@
 OthelloTek
 ==========
 
-A othello game written with client side javascript.
+A othello game written in javascript.
 
 Open the index.html with a browser and the game will begin.
 
@@ -9,8 +9,16 @@ Open the index.html with a browser and the game will begin.
 
 ## [Play it now!][OthelloTek]
 
-<img src="./img/screenshot.png" width="320" height="260">
+[<img src="./img/screenshot.png" width="320" height="260">][OthelloTek]
 
+Donation
+-------
+
+[gittip-okunishinishi]: https://www.gittip.com/okunishinishi/
+
+Support this project and [others by okunishinishi][gittip-okunishinishi] via [gittip][gittip-okunishinishi].
+
+[![Support via Gittip](https://rawgithub.com/twolfson/gittip-badge/0.2.0/dist/gittip.png)][gittip-okunishinishi]
 
 
 License
