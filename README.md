@@ -1,7 +1,7 @@
 OthelloTek
 ==========
 
-A othello game written in javascript.
+A othello game written in JavaScript.
 
 Open the index.html with a browser and the game will begin.
 
